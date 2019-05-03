@@ -1,3 +1,11 @@
+libzim 4.0.8
+============
+
+ * Fix thread slipping for win32 crosscompilation.
+ * [Writer] Fix a memory leak (cluster cleanning)
+ * [Writer] Write article data in a temporary cluster file instead of a
+   temporary file per article.
+
 libzim 4.0.7
 ============
 

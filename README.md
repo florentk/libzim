@@ -32,7 +32,7 @@ libraries need to be available:
 * Z ................................................. http://zlib.net/
 (package zlib1g-dev on Ubuntu)
 * LZMA ...................................... http://tukaani.org/lzma/
-(package lzma-dev on Ubuntu)
+(package liblzma-dev on Ubuntu)
 * ICU ................................... http://site.icu-project.org/
 (package libicu-dev on Ubuntu)
 * Xapian (optional) .............................. https://xapian.org/
